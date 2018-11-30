@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".HomeActivity" />
-        <activity android:name=".InventoryCheckActivity"></activity>
+        <activity android:name=".InventoryCheckActivity" />
+        <activity android:name=".AddInventoryActivity"></activity>
     </application>
 
 </manifest>

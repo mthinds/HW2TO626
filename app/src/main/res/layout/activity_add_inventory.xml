@@ -14,13 +14,13 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="39dp"
         android:gravity="center"
-        android:text="Inventory Check Placeholder"
+        android:text="Add Inventory Placeholder"
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_alignParentLeft="true" />
 
     <Button
-        android:id="@+id/buttonHome"
+        android:id="@+id/buttonHome2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"

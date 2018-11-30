@@ -47,8 +47,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                             if (task.isSuccessful()) {
                                 // Sign in success, update UI with the signed-in user's information
                                 Toast.makeText(MainActivity.this, "Registration Successful - Welcome!", Toast.LENGTH_SHORT).show();
-                                Intent intentHome = new Intent(MainActivity.this,HomeActivity.class) ;
-                                startActivity(intentHome);
+                                //Intent intentHome = new Intent(MainActivity.this,HomeActivity.class) ;
+                                //startActivity(intentHome);
                             } else {
                                 // If sign in fails, display a message to the user.
                                 Toast.makeText(MainActivity.this, "Registration Failed - Try Again", Toast.LENGTH_SHORT).show();
